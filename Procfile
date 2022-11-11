@@ -1,1 +1,1 @@
-web: java -jar target/*.jar
+web: mvn spring-boot:run
